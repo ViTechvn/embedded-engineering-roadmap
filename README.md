@@ -9,24 +9,31 @@ Chào mừng bạn đến với lộ trình tự học trở thành **Kỹ sư H
 Lộ trình được chia làm **3 Khối kiến thức lớn** bao gồm **9 Học phần biệt lập**. Để không bị ngợp, bạn nên học cuốn chiếu theo thứ tự từ Học phần 1 đến Học phần 9. Mỗi học phần sẽ có một Repo con chi tiết chứa tài liệu, video bài giảng và bài tập thực hành riêng.
 
 [Khối 1: Nền Tảng Cốt Lõi]
+
 ├── Học phần 1: Kỹ thuật Điện tử Cơ bản & Linh kiện 🔌
 
 ├── Học phần 2: Kiến trúc Máy tính & Hệ thống số 💻
 
 └── Học phần 3: Lập trình C chuyên sâu cho Embedded 🦀
+
 👇
 
 [Khối 2: Lập Trình Vi Điều Khiển]
+
 ├── Học phần 4: Vi điều khiển & Lập trình Bare-Metal (STM32) 📑
 
 ├── Học phần 5: Giao tiếp Ngoại vi & Giao thức Truyền thông 📡
 
 └── Học phần 6: Cấu trúc dữ liệu & Giải thuật ứng dụng 📊
+
 👇
 
 [Khối 3: Hệ Điều Hành & Nâng Cao]
+
 ├── Học phần 7: Hệ điều hành thời gian thực (RTOS) ⏱️
+
 ├── Học phần 8: Linux nhúng (Embedded Linux) 🐧
+
 └── Học phần 9: Dự án Tốt nghiệp / Portfolio 🏆
 
 ---
