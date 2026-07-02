@@ -6,7 +6,7 @@ Chào mừng bạn đến với lộ trình tự học trở thành **Kỹ sư H
 
 ## 🗺️ Bản Đồ Lộ Trình Tổng Quan
 
-Lộ trình được chia làm **3 Khối kiến thức lớn** bao gồm **9 Học phần biệt lập**. Để không bị ngợp, bạn nên học cuốn chiếu theo thứ tự từ Học phần 1 đến Học phần 9. Mỗi học phần sẽ có một Repo con chi tiết chứa tài liệu, video bài giảng và bài tập thực hành riêng.
+Lộ trình được chia làm **3 Khối kiến thức lớn** bao gồm **9 Học phần biệt lập**. Để không bị ngợp, bạn nên học cuốn chiếu theo thứ tự từ Học phần 1 đến Học phần 9. Mỗi học phần sẽ có một Repo con chi tiết chứa tài liệu, video bài giảng và bài tập thực hành riêng được tụi mình tổng hợp từ nhiều nguồn.
 
 [Khối 1: Nền Tảng Cốt Lõi]
 
